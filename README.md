@@ -1,6 +1,6 @@
-# ⚡ Apache Kafka Notes
+# **🏗️ HashiCorp tools**
 
-📖 Read the book online at: [Github Pages](https://chenoveko.github.io/kafka-notes/)
+📖 Read the book online at: [Github Pages](https://chenoveko.github.io/hashicorp-notes/)
 
 ## 🛠️ Build the Book Locally
 
