@@ -6,7 +6,7 @@
 
 ## Standard Module Structure 
 
-![Module Structure](../images/module_structure.png)
+![Module Structure](./images/module_structure.png)
 
 ## Building Modules
 

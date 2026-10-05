@@ -3,7 +3,7 @@
 
 ## Dynamic Code with Interpolation
 
-![interpolation](../images/interpolation.png)
+![interpolation](./images/interpolation.png)
 
 ## Locals to Avoid Code Duplication
 
@@ -13,7 +13,7 @@
 
 ## Meta-Arguments
 
-![meta arguments](../images/meta_arguments.png)
+![meta arguments](./images/meta_arguments.png)
 
 ## Built-In Functions
 
