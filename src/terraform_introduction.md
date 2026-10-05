@@ -4,17 +4,18 @@
 
 ## Material
 
-[Terraform Slides Bryan](../pdf/terraform_slides_bryan.pdf)
+[Terraform Slides Bryan](https://github.com/Chenoveko/hashicorp-notes/blob/main/src/pdf/terraform_slides_bryan.pdf)
+[Terraform Slides Bryan](./pdf/terraform_slides_bryan.pdf)
 
-[Terraform Slides Lauro](../pdf/terraform_slides_lauro.pdf)
+[Terraform Slides Lauro](https://github.com/Chenoveko/hashicorp-notes/blob/main/src/pdf/terraform_slides_lauro.pdf)
 
-[Terraform Cheatsheet](../pdf/terraform-cheatsheet.pdf)
+[Terraform Cheatsheet](https://github.com/Chenoveko/hashicorp-notes/blob/main/src/pdf/terraform-cheatsheet.pdf)
 
-[Tokio DevOps Cloud](../pdf/tokio_devops_cloud.pdf)
+[Tokio DevOps Cloud](https://github.com/Chenoveko/hashicorp-notes/blob/main/src/pdf/tokio_devops_cloud.pdf)
 
 ## Core Components
 
-![Core](../images/core.png)
+![core](../images/core.png)
 
 ## Hashicorp Configuration Language (HCL)
 
