@@ -16,11 +16,18 @@
 # Packer
 
 - [Introduction](packer_introduction.md)
+- [Templates](packer_templates.md)
+- [Builders](packer_builders.md)
+- [Provisioners](packer_provisioners.md)
 
 
 # Vault
 
 - [Introduction](vault_introduction.md)
+- [Security Architecture](vault_architecture.md)
+- [Components](vault_components.md)
+- [Policies](vault_policies.md)
+- [CI/CD](vault_ci_cd.md)
 
 
 
